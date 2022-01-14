@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AyaHa09
-- 👀 I’m interested in <you>
+- 👀 I’m interested in you
 - 🌱 I’m currently learning ISS and I HAVE NO IDEA WHAT IT STANDS FOR.
 - 💞️ I’m looking to collaborate on "huh ?"
 - 📫 How to reach me ? => Please don't .

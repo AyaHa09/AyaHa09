@@ -62,9 +62,8 @@ I am a constant learner, regularly improving my skills through:
 ## CV 
 
 📄 My CV is available here: 
-French Version📄 [Download my CV][(./Aya_Hachana_FR.pdf)](https://github.com/AyaHa09/AyaHa09/blob/main/Aya_Hachana_.pdf)
-English Version📄[Download my CV](./Aya_Hachana_EN.pdf)https://github.com/AyaHa09/AyaHa09/blob/main/Aya_Hachana_Resume.pdf
-
+📄 French Version → [Download](./Aya_Hachana_FR.pdf)  
+📄 English Version → [Download](./Aya_Hachana_EN.pdf)
 ## Motto
 
 > Enjoy the journey.

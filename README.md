@@ -44,13 +44,12 @@ My interests lie at the intersection of technology, mathematics, and structured 
 
 Key areas of interest include:
 
-* Mathematics and applied modeling
+* Mathematics
 * Data science
 * Artificial Intelligence (explored since 2017)
 * Software engineering
-* Architecture (as a discipline of structured design and systems thinking)
-* Philosophy (logic, reasoning, and conceptual frameworks)
-
+* Architecture 
+* Philosophy 
 ## Continuous Learning
 
 I am a constant learner, regularly improving my skills through:
@@ -62,8 +61,10 @@ I am a constant learner, regularly improving my skills through:
 
 ## CV 
 
-📄 My CV is available here: *(add your PDF link in this repository)*
+📄 My CV is available here: 
+French Version📄 [Download my CV][(./Aya_Hachana_FR.pdf)](https://github.com/AyaHa09/AyaHa09/blob/main/Aya_Hachana_.pdf)
+English Version📄[Download my CV](./Aya_Hachana_EN.pdf)https://github.com/AyaHa09/AyaHa09/blob/main/Aya_Hachana_Resume.pdf
 
 ## Motto
 
-> Enjoy the journey while it lasts.
+> Enjoy the journey.

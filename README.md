@@ -17,16 +17,21 @@ I have experience in full-stack development across multiple architectures and ec
 * React
 * Node.js
 
-### Other Web Technologies
+### MEAN Stack
+- Angular
+- Node.js
+- Express.js
+- MongoDB
 
-* Angular (frontend framework experience)
-* PostgreSQL (relational database design and queries)
+### Java / Spring Boot Backend
+- Spring Boot
+- PostgreSQL
+- RESTful API development
 
 ### Mobile Development
 
 * React Native
-* Kotlin (Android development)
-* Swift (basic UI exposure in academic context)
+* Kotlin
 
 ### Backend / Programming Languages
 
